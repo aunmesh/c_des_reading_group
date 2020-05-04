@@ -28,7 +28,7 @@ Hyung Gun:
 Asim:
 * [Learning by Association -- A Versatile Semi-Supervised Training Method for Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Haeusser_Learning_by_Association_CVPR_2017_paper.pdf)
 
-* [iActive 6D Multi-Object Pose Estimation in Cluttered Scenarios with Deep Reinforcement Learning](https://arxiv.org/pdf/1910.08811.pdf)
+* [Active 6D Multi-Object Pose Estimation in Cluttered Scenarios with Deep Reinforcement Learning](https://arxiv.org/pdf/1910.08811.pdf)
 
 * [Iterative Instance Segmentation](https://arxiv.org/pdf/1511.08498.pdf)
 
