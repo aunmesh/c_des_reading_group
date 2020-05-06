@@ -66,8 +66,7 @@ Proposes using optical flow and 2d keypoints as input for pose estimation networ
 Hyung Gun:
 [Self-Supervised GANs via Auxiliary Rotation Loss](https://arxiv.org/pdf/1811.11212.pdf)
 
-A short description:
-
+The role of self-supervision is to encourage the discriminator to learn meaningful feature repesentations which are not forgotten during training. The self-supervised GAN attains a similar performance to state-of-the-art conditional GAN.
 
 Asim:
 [Cross-modal deep Variational hand pose estimation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Spurr_Cross-Modal_Deep_Variational_CVPR_2018_paper.pdf)
