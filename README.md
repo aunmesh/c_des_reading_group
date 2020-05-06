@@ -1,6 +1,6 @@
 # C Design Lab Machine Learning Reading Group
-### Datetime : 11:00 AM on Mon, Wed, and Fri every week
-### Participants : Asim, Hyung Gun
+Datetime : 11:00 AM on Mon, Wed, and Fri every week\
+Participants : Asim, Hyung-gun
 
 ## Before 4 May:
 
