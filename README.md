@@ -1,9 +1,10 @@
 # C Design Lab Machine Learning Reading Group
+### Datetime : 11:00 AM on Mon, Wed, and Fri every week
+### Participants : Asim, Hyung Gun
 
+## Before 4 May:
 
-## Paper's discussed before 4th May:
-
-Hyung Gun:
+**Hyung Gun**
 * [3D Hand Pose Estimation in the Wild via Graph Refinement under Adversarial Learning](https://arxiv.org/pdf/1912.01875.pdf)
 
 * [PoseFix: Model-agnostic General Human Pose Refinement Network](https://arxiv.org/abs/1812.03595)
@@ -25,7 +26,7 @@ Hyung Gun:
 * [Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/509/paper_camera_ready.pdf)
 
 
-Asim:
+**Asim**
 * [Learning by Association -- A Versatile Semi-Supervised Training Method for Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Haeusser_Learning_by_Association_CVPR_2017_paper.pdf)
 
 * [Active 6D Multi-Object Pose Estimation in Cluttered Scenarios with Deep Reinforcement Learning](https://arxiv.org/pdf/1910.08811.pdf)
@@ -48,27 +49,27 @@ Asim:
 
 ## 4 May
 
-Hyung Gun:
+**Hyung Gun**
 [Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction](https://arxiv.org/pdf/2004.13449.pdf)
 
-Uses photometric consistency to propagate annotations to un-annotated frames.
+> Uses photometric consistency to propagate annotations to un-annotated frames.
 
-Asim:
+**Asim**
 [Sim2real transfer learning for 3D human pose
 estimation: motion to the rescue](https://papers.nips.cc/paper/9454-sim2real-transfer-learning-for-3d-human-pose-estimation-motion-to-the-rescue.pdf)
 
-Proposes using optical flow and 2d keypoints as input for pose estimation networks. Since these inputs are not affected by photorealism , hence can be trained well using synthetic data, without suffering much performance drop for real data.
+> Proposes using optical flow and 2d keypoints as input for pose estimation networks. Since these inputs are not affected by photorealism , hence can be trained well using synthetic data, without suffering much performance drop for real data.
 
 
 
 ## 6 May
 
-Hyung Gun:
+**Hyung Gun**
 [Self-Supervised GANs via Auxiliary Rotation Loss](https://arxiv.org/pdf/1811.11212.pdf)
 
-The role of self-supervision is to encourage the discriminator to learn meaningful feature repesentations which are not forgotten during training. The self-supervised GAN attains a similar performance to state-of-the-art conditional GAN.
+> The role of self-supervision is to encourage the discriminator to learn meaningful feature repesentations which are not forgotten during training. The self-supervised GAN attains a similar performance to state-of-the-art conditional GAN.
 
-Asim:
+**Asim**
 [Cross-modal deep Variational hand pose estimation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Spurr_Cross-Modal_Deep_Variational_CVPR_2018_paper.pdf)
 
-Uses different decoders from jointly obtained multi modal data to a joint latent space and does reconstruction from that. Is able to train using instances where all modalities are not available but a few are. Using this latent space they can train for hand pose estimation.
+> Uses different decoders from jointly obtained multi modal data to a joint latent space and does reconstruction from that. Is able to train using instances where all modalities are not available but a few are. Using this latent space they can train for hand pose estimation.
