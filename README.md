@@ -43,3 +43,33 @@ Asim:
 * [MMSS: Multi-Modal Sharable and Specific Feature Learning for RGB-D Object Recognition](http://openaccess.thecvf.com/content_iccv_2015/papers/Wang_MMSS_Multi-Modal_Sharable_ICCV_2015_paper.pdf)
 
 * [Learning Descriptors for Object Recognition and 3D Pose Estimation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wohlhart_Learning_Descriptors_for_2015_CVPR_paper.pdf)
+
+
+
+## 4 May
+
+Hyung Gun:
+[Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction](https://arxiv.org/pdf/2004.13449.pdf)
+
+Uses photometric consistency to propagate annotations to un-annotated frames.
+
+Asim:
+[Sim2real transfer learning for 3D human pose
+estimation: motion to the rescue](https://papers.nips.cc/paper/9454-sim2real-transfer-learning-for-3d-human-pose-estimation-motion-to-the-rescue.pdf)
+
+Proposes using optical flow and 2d keypoints as input for pose estimation networks. Since these inputs are not affected by photorealism , hence can be trained well using synthetic data, without suffering much performance drop for real data.
+
+
+
+## 6 May
+
+Hyung Gun:
+[Self-Supervised GANs via Auxiliary Rotation Loss](https://arxiv.org/pdf/1811.11212.pdf)
+
+A short description:
+
+
+Asim:
+[Cross-modal deep Variational hand pose estimation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Spurr_Cross-Modal_Deep_Variational_CVPR_2018_paper.pdf)
+
+Uses different decoders from jointly obtained multi modal data to a joint latent space and does reconstruction from that. Is able to train using instances where all modalities are not available but a few are. Using this latent space they can train for hand pose estimation.
