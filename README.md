@@ -1,6 +1,6 @@
 # C Design Lab Machine Learning Reading Group
-* **Datetime** : 11:00 AM on Mon, Wed, and Fri every week\
-* **Participants** : Asim, Hyung-gun \
+* **Datetime** : 11:00 AM on Mon, Wed, and Fri every week
+* **Participants** : Asim, Hyung-gun
 * **WebEx link** : [https://purdue-student.webex.com/meet/chi45](https://purdue-student.webex.com/meet/chi45)
 
 ## Before 4 May:
