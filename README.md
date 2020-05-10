@@ -74,3 +74,17 @@ estimation: motion to the rescue](https://papers.nips.cc/paper/9454-sim2real-tra
 [Cross-modal deep Variational hand pose estimation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Spurr_Cross-Modal_Deep_Variational_CVPR_2018_paper.pdf)
 
 > Uses different decoders from jointly obtained multi modal data to a joint latent space and does reconstruction from that. Is able to train using instances where all modalities are not available but a few are. Using this latent space they can train for hand pose estimation.
+
+## 8 May
+
+**Hyung Gun**
+[HOnnotate: A method for 3D Annotation of Hand and Object Poses](https://arxiv.org/pdf/1907.01481.pdf)
+
+**Asim**
+[Self-Supervised Feature Learning by Learning to Spot Artifacts](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jenni_Self-Supervised_Feature_Learning_CVPR_2018_paper.pdf)
+
+## 11 May
+
+**Hyung Gun**
+
+**Asim**
