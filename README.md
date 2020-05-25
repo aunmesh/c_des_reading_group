@@ -83,8 +83,32 @@ estimation: motion to the rescue](https://papers.nips.cc/paper/9454-sim2real-tra
 **Asim**
 [Self-Supervised Feature Learning by Learning to Spot Artifacts](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jenni_Self-Supervised_Feature_Learning_CVPR_2018_paper.pdf)
 
-## 11 May
+## 12 May
 
 **Hyung Gun**
+[End-to-end Hand Mesh Recovery from a Monocular RGB Image](https://arxiv.org/pdf/1902.09305.pdf)
+
+[Knowledge as Priors: Cross-Modal Knowledge Generalization for Datasets without Superior Knowledge](https://arxiv.org/pdf/2004.00176.pdf)
 
 **Asim**
+[Synthesizing Training Images for Boosting Human 3D Pose Estimation](http://ai.stanford.edu/~haosu/papers/3DV_humanpose.pdf)
+
+
+
+## 15 May
+**Asim**
+[Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation
+Equivariant Layer](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Point-To-Pose_Voting_Based_Hand_Pose_Estimation_Using_Residual_Permutation_Equivariant_CVPR_2019_paper.pdf)
+
+
+**Hyung Gun**
+[Liquid Warping GAN: A Unified Framework for Human Motion Imitation,
+Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.pdf)
+
+## 19 May
+
+**Asim**
+[Co-occurrent Features in Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Co-Occurrent_Features_in_Semantic_Segmentation_CVPR_2019_paper.pdf)
+
+**Hyung Gun**
+[Imitation Learning for Human Pose Prediction](https://arxiv.org/pdf/1909.03449.pdf)
