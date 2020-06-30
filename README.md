@@ -1,6 +1,6 @@
 # C Design Lab Machine Learning Reading Group
-* **Datetime** : 11:00 AM on Mon, Wed, and Fri every week
-* **Participants** : Asim, Hyung-gun
+* **Datetime** : 8:00 PM on Mon and Thr every week
+* **Participants** : Asim, Hyung-gun, Seung-gun
 * **WebEx link** : [https://purdue-student.webex.com/meet/chi45](https://purdue-student.webex.com/meet/chi45)
 
 ## Before 4 May:
@@ -112,3 +112,14 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 
 **Hyung Gun**
 [Imitation Learning for Human Pose Prediction](https://arxiv.org/pdf/1909.03449.pdf)
+
+## 30 June
+
+**Asim**
+
+
+**Hyung Gun**
+
+
+**Seung Gun**
+
