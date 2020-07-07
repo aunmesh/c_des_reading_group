@@ -119,7 +119,7 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 [What it thinks is important is important](https://arxiv.org/abs/1912.05699)
 
 **Hyung Gun**
-[]()
+[Action Recognition from Single Timestamp Supervision in Untrimmed Videos](http://openaccess.thecvf.com/content_CVPR_2019/papers/Moltisanti_Action_Recognition_From_Single_Timestamp_Supervision_in_Untrimmed_Videos_CVPR_2019_paper.pdf)
 
 **Seung Gun**
 [Playing hard exploration games by watching YouTube](https://arxiv.org/pdf/1805.11592.pdf)
