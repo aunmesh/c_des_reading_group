@@ -129,10 +129,12 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 
 **Asim**
 [Video Modeling with Correlation Networks](https://arxiv.org/abs/1906.03349)
+
 [An Unsupervised Framework for Action Recognition Using Actemes](http://users.umiacs.umd.edu/~kale/accv2010.pdf)
 
 **Hyung Gun**
 [Deep progressive reinforcement learning for skeleton based action recognition](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.pdf)
+
 [Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Arar_Unsupervised_Multi-Modal_Image_Registration_via_Geometry_Preserving_Image-to-Image_Translation_CVPR_2020_paper.pdf)
 
 **Seung Gun**
