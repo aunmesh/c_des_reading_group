@@ -138,4 +138,17 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 [Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Arar_Unsupervised_Multi-Modal_Image_Registration_via_Geometry_Preserving_Image-to-Image_Translation_CVPR_2020_paper.pdf)
 
 **Seung Gun**
-[]()
+[Playing hard exploration games by watching YouTube](https://arxiv.org/pdf/1805.11592.pdf)
+
+<details markdown="1">
+<summary>plot of Playing hard exploration games by watching YouTube</summary>
+
+- Paper with youtube data
+![Youtube](https://user-images.githubusercontent.com/37060326/86855774-036a3000-c0f6-11ea-9675-54dc281db287.png)
+
+- Applying their method to Georgia Tech Egocentric Activity Datasets
+![Cheese](https://user-images.githubusercontent.com/37060326/86856271-f00b9480-c0f6-11ea-81ad-00af01ae9946.png)
+![Georgia](https://user-images.githubusercontent.com/37060326/86855766-fe0ce580-c0f5-11ea-8f97-6a97e6cd3261.png)
+
+
+</details>
