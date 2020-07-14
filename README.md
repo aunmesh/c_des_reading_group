@@ -168,3 +168,6 @@ Description: Activity Localization using multi scale features and building a sim
 
 **Rahul**
 
+## 16 July
+**Hyung Gun**
+[Learning Temporal Action Proposals With Fewer Labels](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ji_Learning_Temporal_Action_Proposals_With_Fewer_Labels_ICCV_2019_paper.pdf)
