@@ -152,3 +152,18 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 
 
 </details>
+
+
+## 14 July
+
+**Asim**
+
+[Action2Vec: A Cross Modal Embedding Approach to Action Learning](https://arxiv.org/pdf/1901.00484.pdf)
+
+**Hyung Gun**
+[METAL_Minimum_Effort_Temporal_Activity_Localization_in Untrimmed Videos](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_METAL_Minimum_Effort_Temporal_Activity_Localization_in_Untrimmed_Videos_CVPR_2020_paper.pdf)
+
+Description: Activity Localization using multi scale features and building a similarity pyramid.
+
+**Seung Gun**
+[METAL_Minimum_Effort_Temporal_Activity_Localization_in_Untrimmed_Videos](https://arxiv.org/pdf/1703.08132.pdf)
