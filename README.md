@@ -1,6 +1,6 @@
 # C Design Lab Machine Learning Reading Group
-* **Datetime** : 8:00 PM on Mon and Thr every week
-* **Participants** : Asim, Hyung-gun, Seung-gun
+* **Datetime** : 2:00 PM on Mon and Thr every week
+* **Participants** : Asim, Hyung-gun, Seung-gun, Rahul
 * **WebEx link** : [https://purdue-student.webex.com/meet/chi45](https://purdue-student.webex.com/meet/chi45)
 
 ## Before 4 May:
@@ -157,7 +157,6 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 ## 14 July
 
 **Asim**
-
 [Action2Vec: A Cross Modal Embedding Approach to Action Learning](https://arxiv.org/pdf/1901.00484.pdf)
 
 **Hyung Gun**
@@ -166,4 +165,6 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 Description: Activity Localization using multi scale features and building a similarity pyramid.
 
 **Seung Gun**
-[METAL_Minimum_Effort_Temporal_Activity_Localization_in_Untrimmed_Videos](https://arxiv.org/pdf/1703.08132.pdf)
+
+**Rahul**
+
