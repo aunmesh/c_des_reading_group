@@ -164,6 +164,8 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 > Description: Activity Localization using multi scale features and building a similarity pyramid.
 
 **Seung Gun**
+[Weakly Supervised Action Localization by Sparse Temporal Pooling Network](https://www.google.com/search?q=Weakly+Supervised+Action+Localization+by+Sparse+Temporal+Pooling+Network&oq=Weakly+Supervised+Action+Localization+by+Sparse+Temporal+Pooling+Network&aqs=chrome.0.69i59j0l2j69i59.563j0j1&sourceid=chrome&ie=UTF-8)
+
 
 **Rahul**
 
