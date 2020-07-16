@@ -172,3 +172,6 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 ## 16 July
 **Hyung Gun**
 [Learning Temporal Action Proposals With Fewer Labels](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ji_Learning_Temporal_Action_Proposals_With_Fewer_Labels_ICCV_2019_paper.pdf)
+
+**Seung Gun**
+[Self-Imitation Learning](https://arxiv.org/pdf/1806.05635v1.pdf) [\[code\]](https://github.com/junhyukoh/self-imitation-learning)
