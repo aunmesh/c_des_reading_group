@@ -189,7 +189,7 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 [https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Song_Action_Recognition_by_2013_CVPR_paper.pdf](Action Recognition by Hierarchical Sequence Summarization)
 
 **Hyung Gun**
-[]()
+[Dual-Agent Deep Reinforcement Learning for Deformable Face Tracking](https://openaccess.thecvf.com/content_ECCV_2018/papers/Minghao_Guo_Dual-Agent_Deep_Reinforcement_ECCV_2018_paper.pdf)
 
 **Seung Gun**
 []()
