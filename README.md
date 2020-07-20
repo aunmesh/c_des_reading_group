@@ -175,3 +175,24 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 
 **Seung Gun**
 [Self-Imitation Learning](https://arxiv.org/pdf/1806.05635v1.pdf) [\[code\]](https://github.com/junhyukoh/self-imitation-learning)
+
+**Asim**
+[https://www.cc.gatech.edu/fac/Charles.Isbell/papers/hamid_cvpr2005.pdf](https://www.cc.gatech.edu/fac/Charles.Isbell/papers/hamid_cvpr2005.pdf)
+
+**Rahul**
+[https://arxiv.org/pdf/1912.00381.pdf](Gate-Shift Networks for Video Action Recognition)
+
+
+## 20 July
+
+**Asim**
+[https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Song_Action_Recognition_by_2013_CVPR_paper.pdf](Action Recognition by Hierarchical Sequence Summarization)
+
+**Hyung Gun**
+[]()
+
+**Seung Gun
+[]()
+
+**Rahul
+[]()
