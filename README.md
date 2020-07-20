@@ -191,8 +191,8 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 **Hyung Gun**
 []()
 
-**Seung Gun
+**Seung Gun**
 []()
 
-**Rahul
+**Rahul**
 []()
