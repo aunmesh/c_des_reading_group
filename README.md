@@ -192,7 +192,18 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 [Dual-Agent Deep Reinforcement Learning for Deformable Face Tracking](https://openaccess.thecvf.com/content_ECCV_2018/papers/Minghao_Guo_Dual-Agent_Deep_Reinforcement_ECCV_2018_paper.pdf)
 
 **Seung Gun**
-[Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yun_Action-Decision_Networks_for_CVPR_2017_paper.pdf)
+[Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning](https://openaccess.thecvf.com/content_cvpr_2020/papers/Yun_Action-Decision_Networks_for_CVPR_2017_paper.pdf)
 
 **Rahul**
 []()
+
+## 4 Aug
+**Asim**
+
+**Hyung Gun**
+[Learning Representations for Time Series Clustering](https://papers.nips.cc/paper/8634-learning-representations-for-time-series-clustering.pdf)
+
+**Seung Gun**
+[Action Sets Weakly Supervised Action Segmentation without Ordering Constraints](https://arxiv.org/pdf/1706.00699.pdf)
+
+**Rahul**
