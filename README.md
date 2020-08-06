@@ -199,6 +199,7 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 
 ## 4 Aug
 **Asim**
+[BorderDet:Border Features for Dense Object Detection](https://arxiv.org/pdf/2007.11056.pdf)
 
 **Hyung Gun**
 [Learning Representations for Time Series Clustering](https://papers.nips.cc/paper/8634-learning-representations-for-time-series-clustering.pdf)
