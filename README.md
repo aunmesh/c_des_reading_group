@@ -208,3 +208,16 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 [Action Sets Weakly Supervised Action Segmentation without Ordering Constraints](https://arxiv.org/pdf/1706.00699.pdf)
 
 **Rahul**
+
+## 6 Aug
+**Asim**
+
+**Hyung Gun**
+[Weakly-Supervised Action Localization by Generative Attention Modeling](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_Weakly-Supervised_Action_Localization_by_Generative_Attention_Modeling_CVPR_2020_paper.pdf)
+
+**Seung Gun**
+
+**Rahul**
+
+## 10 Aug
+
