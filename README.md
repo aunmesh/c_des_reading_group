@@ -216,6 +216,7 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 [Weakly-Supervised Action Localization by Generative Attention Modeling](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_Weakly-Supervised_Action_Localization_by_Generative_Attention_Modeling_CVPR_2020_paper.pdf)
 
 **Seung Gun**
+[Hierarchical Attention Network for Action Segmentation](https://arxiv.org/pdf/2005.03209.pdf)
 
 **Rahul**
 
