@@ -211,6 +211,7 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 
 ## 6 Aug
 **Asim**
+[Object Contextual Representation for Semantic Segmentation](https://arxiv.org/abs/1909.11065)
 
 **Hyung Gun**
 [Weakly-Supervised Action Localization by Generative Attention Modeling](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_Weakly-Supervised_Action_Localization_by_Generative_Attention_Modeling_CVPR_2020_paper.pdf)
@@ -221,4 +222,13 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 **Rahul**
 
 ## 10 Aug
+**Asim**
+[Parsing Videos of Actions with Segmental Grammars](https://www.csee.umbc.edu/~hpirsiav/papers/grammar_cvpr14.pdf)
 
+**Hyung Gun**
+[Learning Temporal Co-Attention Models for Unsupervised Video Action Localization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gong_Learning_Temporal_Co-Attention_Models_for_Unsupervised_Video_Action_Localization_CVPR_2020_paper.pdf)
+**Seung Gun**
+[Alleviating Over-segmentation Errors by Detecting Action Boundaries](https://arxiv.org/pdf/2007.06866.pdf)
+
+**Rahul**
+[Cross-Task Weakly Supervised Learning From Instructional Videos](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhukov_Cross-Task_Weakly_Supervised_Learning_From_Instructional_Videos_CVPR_2019_paper.html)
