@@ -233,3 +233,17 @@ Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.p
 
 **Rahul**
 [Cross-Task Weakly Supervised Learning From Instructional Videos](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhukov_Cross-Task_Weakly_Supervised_Learning_From_Instructional_Videos_CVPR_2019_paper.html)
+
+
+## 13 Aug
+**Asim**
+[]()
+
+**Hyung Gun**
+[]()
+
+**Seung Gun**
+[MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation](https://arxiv.org/pdf/1903.01945.pdf)
+
+**Rahul**
+[]()
